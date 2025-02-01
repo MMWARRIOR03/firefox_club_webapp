@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "921526573008",
+    "project_id": "tempgeoloc",
+    "storage_bucket": "tempgeoloc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921526573008:android:8b1cad63a4b42cb68d0bd5",
+        "android_client_info": {
+          "package_name": "com.example.firefox_club_webapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921526573008-m7dr2rro43n9vjf8l19ma9ofarrj3kf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuFu-UHOOwnTpuoS9aTMpmbM4NjDdFqfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921526573008-m7dr2rro43n9vjf8l19ma9ofarrj3kf3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "921526573008-68qq2b8slguchav85hpkvmlna2p9peri.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.todelete54"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
